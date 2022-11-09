@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="submit">Submit</string>
+    <string name="upload">Upload</string>
+    <string name="image">Image</string>
+    <string name="select">Select</string>
+    <string name="uploads">uploads</string>
+    <string name="video">Video</string>
+    <string name="download">Download</string>
+</resources>
